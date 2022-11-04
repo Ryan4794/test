@@ -1,0 +1,13 @@
+{
+    "botToken": "MTAzNjMxMzE2ODUwMDI0NDU1MA.GnCZvQ.hF382pn4ynqSsqzsiyMsKKBHPblSwv4JK8XfpU",
+    "logs_channel_id": "1036308550353432668",
+
+    "prefix": "!",
+    "command_name": "!",
+    
+    "give_role": true,
+    "role_name": "access",
+
+    "mass_dm": 3,
+    "message": "https://discord.gg/jBjm5uGmwS"
+}

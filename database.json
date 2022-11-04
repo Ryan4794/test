@@ -1,0 +1,38 @@
+{
+    "616674802156961817": {
+        "username": "Malik#2342",
+        "avatar_url": "https://cdn.discordapp.com/avatars/616674802156961817/c7697d81fd1c04afacb0fbb51d2c2579.png",
+        "avatar_id": "c7697d81fd1c04afacb0fbb51d2c2579",
+        "phone_number": "+420776354111",
+        "email": "dehmechemalik99@gmail.com",
+        "mfa_enabled": false,
+        "flags": 32,
+        "locale": "fr",
+        "verified": true,
+        "has_nitro": false,
+        "payment_methods": 0,
+        "token": "NjE2Njc0ODAyMTU2OTYxODE3.GvwovP.5lkx3A_02iD7Ez5L-mzSgiJMMp943iSxVTxoak"
+    },
+    "1005501120950575105": {
+        "username": "UnCompte#9592",
+        "avatar_url": "https://cdn.discordapp.com/avatars/1005501120950575105/6e608bbbc3fa1c76d870c9af33ac43da.png",
+        "avatar_id": "6e608bbbc3fa1c76d870c9af33ac43da",
+        "phone_number": "+32466308672",
+        "email": "dehmeche69@gmail.com",
+        "mfa_enabled": false,
+        "flags": 256,
+        "locale": "fr",
+        "verified": true,
+        "has_nitro": true,
+        "payment_methods": 1,
+        "token": "MTAwNTUwMTEyMDk1MDU3NTEwNQ.GwXPKe.cq4D3UlogCFDnyK8KRBw9qv4TnymfjSVu9-Ry8"
+    },
+    "532245489035247626": {
+        "username": "Yanis353#2183",
+        "avatar_url": "https://cdn.discordapp.com/avatars/532245489035247626/28d6a0be1c836be6c9714114ce141e66.png"
+    },
+    "263853955124035617": {
+        "username": "scar#0120",
+        "avatar_url": "https://cdn.discordapp.com/avatars/263853955124035617/997915648c52e6cf4dbd4338becf650d.png"
+    }
+}
